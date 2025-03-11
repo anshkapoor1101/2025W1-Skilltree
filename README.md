@@ -2,7 +2,7 @@
 
 1. Nick Mcphee - nmcp0006@student.monash.edu
 2. Aditya Tripathi - atri0048@student.monash.edu
-3. Arsh Bansal - aban0052@student.monash.edu
+3. Arsh  Bansal - aban0052@student.monash.edu
 4. Nilly Hamidi - nham0019@student.monash.edu
 5. Jaques Fatmajaya - jaqu0004@student.monash.edu
 6. Rithik Reddy - rsin0080@student.monash.edu
