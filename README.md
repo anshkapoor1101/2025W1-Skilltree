@@ -5,3 +5,4 @@
 3. Arsh Bansal - aban0052@student.monash.edu
 4. Nilly Hamidi - nham0019@student.monash.edu
 5. Jaques Fatmajaya - jaqu0004@student.monash.edu
+6. Rithik Reddy - rsin0080@student.monash.edu
