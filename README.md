@@ -6,3 +6,4 @@
 4. Nilly Hamidi - nham0019@student.monash.edu
 5. Jaques Fatmajaya - jaqu0004@student.monash.edu
 6. Rithik Reddy - rsin0080@student.monash.edu
+7. Anuj Ranjan - aran0048@student.monash.edu
